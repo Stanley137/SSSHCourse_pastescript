@@ -1,2 +1,2 @@
-lolololololo.sssh.tp.edu.tw
-Sssh@4321
+youraccount.sssh.tp.edu.tw
+yourpassword
